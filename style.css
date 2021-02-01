@@ -1,0 +1,34 @@
+h1{
+    color :#ffffff;
+    text-align: center; 
+    font-family : fantasy;
+}
+p{
+    color: #0f0cc4;
+    text-align: center; 
+    font-family : fantasy;
+}
+li{
+    color:#2f8b0b;
+    font-style: oblique;
+    font-family : sans-serif;
+}
+
+.header{
+    background-color: #db58d0;
+    padding : 15px;
+    text-align: center;
+    font-family : fantasy;
+}
+.grid{
+    border-radius: 20px;
+    padding: 30px;
+    margin:25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-family : fantasy;
+  
+}
+
+
